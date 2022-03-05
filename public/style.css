@@ -1,0 +1,16 @@
+body {
+  background-color: darkslategray;
+}
+
+p {
+  color: #fff;
+}
+
+button {
+  padding: 8px;
+  height: 40px;
+  background-color: #009879;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}
