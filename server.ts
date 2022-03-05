@@ -1,6 +1,6 @@
 import * as express from 'express';
 import { Request, Response } from 'express';
-
+import * as cors from 'cors';
 const app = express();
 const port = 3000;
 
